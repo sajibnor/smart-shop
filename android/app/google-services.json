@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463057314180",
+    "project_id": "ebazar-c749d",
+    "storage_bucket": "ebazar-c749d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463057314180:android:df0054e78f8e7f4f173dd1",
+        "android_client_info": {
+          "package_name": "com.example.ebazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463057314180-7ikfmcjq1k6ce034hmfriss56hicp8et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebazar",
+            "certificate_hash": "76221fab4f8ae2adcf1d24581ffab1c36896214d"
+          }
+        },
+        {
+          "client_id": "463057314180-irgvt7obef0vndpluk3t5sfmgfdn2m2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjD4WYXpu-fiAhDWFmo8k8cpmigJm5J3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463057314180-irgvt7obef0vndpluk3t5sfmgfdn2m2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
